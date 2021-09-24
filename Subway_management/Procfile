@@ -1,0 +1,1 @@
+web: gunicorn Subway_management.wsgi
